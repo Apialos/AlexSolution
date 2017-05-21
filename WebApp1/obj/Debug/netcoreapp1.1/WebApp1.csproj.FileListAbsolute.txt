@@ -1,0 +1,9 @@
+C:\Projects\AlexSolution\WebApp1\bin\Debug\netcoreapp1.1\WebApp1.deps.json
+C:\Projects\AlexSolution\WebApp1\bin\Debug\netcoreapp1.1\WebApp1.runtimeconfig.json
+C:\Projects\AlexSolution\WebApp1\bin\Debug\netcoreapp1.1\WebApp1.runtimeconfig.dev.json
+C:\Projects\AlexSolution\WebApp1\bin\Debug\netcoreapp1.1\WebApp1.dll
+C:\Projects\AlexSolution\WebApp1\bin\Debug\netcoreapp1.1\WebApp1.pdb
+C:\Projects\AlexSolution\WebApp1\obj\Debug\netcoreapp1.1\WebApp1.csprojResolveAssemblyReference.cache
+C:\Projects\AlexSolution\WebApp1\obj\Debug\netcoreapp1.1\WebApp1.AssemblyInfo.cs
+C:\Projects\AlexSolution\WebApp1\obj\Debug\netcoreapp1.1\WebApp1.dll
+C:\Projects\AlexSolution\WebApp1\obj\Debug\netcoreapp1.1\WebApp1.pdb

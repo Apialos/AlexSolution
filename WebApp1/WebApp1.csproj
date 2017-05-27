@@ -9,29 +9,25 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="wwwroot\js\app\**" />
+    <Content Remove="wwwroot\js\app\**" />
+    <EmbeddedResource Remove="wwwroot\js\app\**" />
+    <None Remove="wwwroot\js\app\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Content Remove="wwwroot/js\require.min.js" />
   </ItemGroup>
 
   <ItemGroup>
-    <Content Include="wwwroot\js\app.js" />
-    <Content Include="wwwroot\js\app.min.js" />
-    <Content Include="wwwroot\js\app\main.js" />
-    <Content Include="wwwroot\js\lib\additional-methods.js" />
-    <Content Include="wwwroot\js\lib\additional-methods.min.js" />
     <Content Include="wwwroot\js\lib\jquery.js" />
     <Content Include="wwwroot\js\lib\jquery.min.js" />
     <Content Include="wwwroot\js\lib\jquery.min.map" />
-    <Content Include="wwwroot\js\lib\jquery.validate.js" />
-    <Content Include="wwwroot\js\lib\jquery.validate.min.js" />
-    <Content Include="wwwroot\js\lib\jquery.validate.unobtrusive.js" />
-    <Content Include="wwwroot\js\lib\jquery.validate.unobtrusive.min.js" />
     <Content Include="wwwroot\js\lib\require.js" />
-    <Content Include="wwwroot\js\main.js" />
+    <Content Include="wwwroot\js\lib\vue.js" />
     <Content Include="wwwroot\js\modules\main.js" />
     <Content Include="wwwroot\js\modules\site.js" />
-    <Content Include="wwwroot\js\modules\site.min.js" />
     <Content Include="wwwroot\js\programm.js" />
-    <Content Include="wwwroot\js\require.js" />
     <Content Include="wwwroot\js\lib\require.min.js" />
     <Content Include="wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js" />
     <Content Include="wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js" />

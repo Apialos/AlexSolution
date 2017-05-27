@@ -25,54 +25,11 @@
     <Content Include="wwwroot\js\lib\jquery.min.map" />
     <Content Include="wwwroot\js\lib\require.js" />
     <Content Include="wwwroot\js\lib\vue.js" />
+    <Content Include="wwwroot\js\lib\vue.min.js" />
     <Content Include="wwwroot\js\modules\main.js" />
     <Content Include="wwwroot\js\modules\site.js" />
     <Content Include="wwwroot\js\programm.js" />
     <Content Include="wwwroot\js\lib\require.min.js" />
-    <Content Include="wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js" />
-    <Content Include="wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js" />
-    <Content Include="wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js">
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-    </Content>
-    <Content Include="wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js">
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-    </Content>
-    <Content Include="wwwroot\lib\jquery-validation\dist\jquery.validate.js" />
-    <Content Include="wwwroot\lib\jquery-validation\dist\jquery.validate.min.js" />
-    <Content Include="wwwroot\lib\jquery-validation\jquery.validate.js">
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-    </Content>
-    <Content Include="wwwroot\lib\jquery-validation\jquery.validate.min.js">
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-    </Content>
-    <Content Include="wwwroot\lib\jquery\dist\jquery.js" />
-    <Content Include="wwwroot\lib\jquery\dist\jquery.min.js" />
-    <Content Include="wwwroot\lib\jquery\dist\jquery.min.map" />
-    <Content Include="wwwroot\lib\jquery\dist\jquery.validate.js" />
-    <Content Include="wwwroot\lib\jquery\dist\jquery.validate.min.js" />
-    <Content Include="wwwroot\lib\jquery\dist\jquery.validate.unobtrusive.js" />
-    <Content Include="wwwroot\lib\jquery\dist\jquery.validate.unobtrusive.min.js" />
-    <Content Include="wwwroot\lib\jquery\jquery.js">
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-    </Content>
-    <Content Include="wwwroot\lib\jquery\jquery.min.js">
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-    </Content>
-    <Content Include="wwwroot\lib\jquery\jquery.min.map">
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-    </Content>
-    <Content Include="wwwroot\lib\jquery\jquery.validate.js">
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-    </Content>
-    <Content Include="wwwroot\lib\jquery\jquery.validate.min.js">
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-    </Content>
-    <Content Include="wwwroot\lib\jquery\jquery.validate.unobtrusive.js">
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-    </Content>
-    <Content Include="wwwroot\lib\jquery\jquery.validate.unobtrusive.min.js">
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-    </Content>
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.0.0" />

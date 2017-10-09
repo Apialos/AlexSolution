@@ -8,9 +8,18 @@ namespace Business
     {
         private static readonly string ConnectionString = ConnectionStrings.DefaultDB;
 
+        public static void TestDatabase()
+        {
+            var sqlStatement = "SELECT * FROM [User]";
+
+            var connection = new SqlConnection(ConnectionString);
+            var result = connection.Query(sqlStatement);
+        }
+
+
         public static int Add(int num1, int num2)
         {
-            var sqlStatement = "SELECT * FROM table";
+            var sqlStatement = "SELECT * FROM [User]";
 
             var connection = new SqlConnection(ConnectionString);
             var result = connection.Query(sqlStatement);

@@ -1,0 +1,13 @@
+C:\Projects\AlexSolution\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.deps.json
+C:\Projects\AlexSolution\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.json
+C:\Projects\AlexSolution\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Projects\AlexSolution\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.dll
+C:\Projects\AlexSolution\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.pdb
+C:\Projects\AlexSolution\ConsoleApp1\bin\Debug\netcoreapp2.0\MyBusiness.dll
+C:\Projects\AlexSolution\ConsoleApp1\bin\Debug\netcoreapp2.0\MyBusiness.pdb
+C:\Projects\AlexSolution\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Projects\AlexSolution\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Projects\AlexSolution\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Projects\AlexSolution\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfo.cs
+C:\Projects\AlexSolution\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.dll
+C:\Projects\AlexSolution\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.pdb

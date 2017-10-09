@@ -1,0 +1,16 @@
+D:\Alexandros\visual studio 2017\Projects\AlexSolution\Business\bin\Debug\netcoreapp1.1\Business.deps.json
+D:\Alexandros\visual studio 2017\Projects\AlexSolution\Business\bin\Debug\netcoreapp1.1\Business.dll
+D:\Alexandros\visual studio 2017\Projects\AlexSolution\Business\bin\Debug\netcoreapp1.1\Business.pdb
+D:\Alexandros\visual studio 2017\Projects\AlexSolution\Business\obj\Debug\netcoreapp1.1\Business.csprojResolveAssemblyReference.cache
+D:\Alexandros\visual studio 2017\Projects\AlexSolution\Business\obj\Debug\netcoreapp1.1\Business.AssemblyInfo.cs
+D:\Alexandros\visual studio 2017\Projects\AlexSolution\Business\obj\Debug\netcoreapp1.1\Business.dll
+D:\Alexandros\visual studio 2017\Projects\AlexSolution\Business\obj\Debug\netcoreapp1.1\Business.pdb
+C:\Projects\AlexSolution\Business\bin\Debug\netcoreapp1.1\Business.deps.json
+C:\Projects\AlexSolution\Business\bin\Debug\netcoreapp1.1\Business.dll
+C:\Projects\AlexSolution\Business\bin\Debug\netcoreapp1.1\Business.pdb
+C:\Projects\AlexSolution\Business\obj\Debug\netcoreapp1.1\Business.csprojResolveAssemblyReference.cache
+C:\Projects\AlexSolution\Business\obj\Debug\netcoreapp1.1\Business.AssemblyInfo.cs
+C:\Projects\AlexSolution\Business\obj\Debug\netcoreapp1.1\Business.dll
+C:\Projects\AlexSolution\Business\obj\Debug\netcoreapp1.1\Business.pdb
+C:\Projects\AlexSolution\Business\obj\Debug\netcoreapp1.1\Business.csproj.CoreCompileInputs.cache
+C:\Projects\AlexSolution\Business\obj\Debug\netcoreapp1.1\Business.AssemblyInfoInputs.cache

@@ -1,0 +1,11 @@
+C:\Projects\AlexSolution\WebApp2\bin\Debug\netcoreapp2.0\WebApp2.deps.json
+C:\Projects\AlexSolution\WebApp2\bin\Debug\netcoreapp2.0\WebApp2.runtimeconfig.json
+C:\Projects\AlexSolution\WebApp2\bin\Debug\netcoreapp2.0\WebApp2.runtimeconfig.dev.json
+C:\Projects\AlexSolution\WebApp2\bin\Debug\netcoreapp2.0\WebApp2.dll
+C:\Projects\AlexSolution\WebApp2\bin\Debug\netcoreapp2.0\WebApp2.pdb
+C:\Projects\AlexSolution\WebApp2\obj\Debug\netcoreapp2.0\WebApp2.csprojResolveAssemblyReference.cache
+C:\Projects\AlexSolution\WebApp2\obj\Debug\netcoreapp2.0\WebApp2.csproj.CoreCompileInputs.cache
+C:\Projects\AlexSolution\WebApp2\obj\Debug\netcoreapp2.0\WebApp2.AssemblyInfoInputs.cache
+C:\Projects\AlexSolution\WebApp2\obj\Debug\netcoreapp2.0\WebApp2.AssemblyInfo.cs
+C:\Projects\AlexSolution\WebApp2\obj\Debug\netcoreapp2.0\WebApp2.dll
+C:\Projects\AlexSolution\WebApp2\obj\Debug\netcoreapp2.0\WebApp2.pdb

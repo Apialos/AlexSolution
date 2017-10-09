@@ -1,0 +1,8 @@
+C:\Projects\AlexSolution\Utils\bin\Debug\netcoreapp2.0\Utils.deps.json
+C:\Projects\AlexSolution\Utils\bin\Debug\netcoreapp2.0\Utils.dll
+C:\Projects\AlexSolution\Utils\bin\Debug\netcoreapp2.0\Utils.pdb
+C:\Projects\AlexSolution\Utils\obj\Debug\netcoreapp2.0\Utils.csproj.CoreCompileInputs.cache
+C:\Projects\AlexSolution\Utils\obj\Debug\netcoreapp2.0\Utils.AssemblyInfoInputs.cache
+C:\Projects\AlexSolution\Utils\obj\Debug\netcoreapp2.0\Utils.AssemblyInfo.cs
+C:\Projects\AlexSolution\Utils\obj\Debug\netcoreapp2.0\Utils.dll
+C:\Projects\AlexSolution\Utils\obj\Debug\netcoreapp2.0\Utils.pdb

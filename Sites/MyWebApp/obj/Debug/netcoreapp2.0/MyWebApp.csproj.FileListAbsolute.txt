@@ -9,3 +9,14 @@ C:\Projects\AlexSolution\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.AssemblyInfoI
 C:\Projects\AlexSolution\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.AssemblyInfo.cs
 C:\Projects\AlexSolution\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.dll
 C:\Projects\AlexSolution\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.pdb
+C:\Projects\AlexSolution\Sites\MyWebApp\bin\Debug\netcoreapp2.0\MyWebApp.deps.json
+C:\Projects\AlexSolution\Sites\MyWebApp\bin\Debug\netcoreapp2.0\MyWebApp.runtimeconfig.json
+C:\Projects\AlexSolution\Sites\MyWebApp\bin\Debug\netcoreapp2.0\MyWebApp.runtimeconfig.dev.json
+C:\Projects\AlexSolution\Sites\MyWebApp\bin\Debug\netcoreapp2.0\MyWebApp.dll
+C:\Projects\AlexSolution\Sites\MyWebApp\bin\Debug\netcoreapp2.0\MyWebApp.pdb
+C:\Projects\AlexSolution\Sites\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.csprojResolveAssemblyReference.cache
+C:\Projects\AlexSolution\Sites\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.csproj.CoreCompileInputs.cache
+C:\Projects\AlexSolution\Sites\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.AssemblyInfoInputs.cache
+C:\Projects\AlexSolution\Sites\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.AssemblyInfo.cs
+C:\Projects\AlexSolution\Sites\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.dll
+C:\Projects\AlexSolution\Sites\MyWebApp\obj\Debug\netcoreapp2.0\MyWebApp.pdb

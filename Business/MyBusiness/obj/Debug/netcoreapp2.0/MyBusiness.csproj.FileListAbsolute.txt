@@ -1,0 +1,9 @@
+C:\Projects\AlexSolution\Business\MyBusiness\bin\Debug\netcoreapp2.0\MyBusiness.deps.json
+C:\Projects\AlexSolution\Business\MyBusiness\bin\Debug\netcoreapp2.0\MyBusiness.dll
+C:\Projects\AlexSolution\Business\MyBusiness\bin\Debug\netcoreapp2.0\MyBusiness.pdb
+C:\Projects\AlexSolution\Business\MyBusiness\obj\Debug\netcoreapp2.0\MyBusiness.csprojResolveAssemblyReference.cache
+C:\Projects\AlexSolution\Business\MyBusiness\obj\Debug\netcoreapp2.0\MyBusiness.csproj.CoreCompileInputs.cache
+C:\Projects\AlexSolution\Business\MyBusiness\obj\Debug\netcoreapp2.0\MyBusiness.AssemblyInfoInputs.cache
+C:\Projects\AlexSolution\Business\MyBusiness\obj\Debug\netcoreapp2.0\MyBusiness.AssemblyInfo.cs
+C:\Projects\AlexSolution\Business\MyBusiness\obj\Debug\netcoreapp2.0\MyBusiness.dll
+C:\Projects\AlexSolution\Business\MyBusiness\obj\Debug\netcoreapp2.0\MyBusiness.pdb

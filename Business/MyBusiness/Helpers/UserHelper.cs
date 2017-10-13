@@ -1,11 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using Business;
 using Dapper;
 using MyBusiness.Domain;
+using Microsoft.AspNetCore.Mvc;
 
 namespace MyBusiness.Helpers
 {
@@ -15,16 +17,25 @@ namespace MyBusiness.Helpers
 
         public static IEnumerable<User> ReadAll()
         {
-            var sqlStatement = "SELECT * FROM [User]";
+            var sqlStatement = "SELECT * FROM [User]"; // change read all to sp
+            var spName = "User_ReadAll";
 
             var connection = new SqlConnection(ConnectionString);
             return connection.Query<User>(sqlStatement);
         }
 
+        [ResponseCache(Duration = 300)]
+        public static IEnumerable<User> GetAll()
+        {
+            return ReadAll();
+        }
+
         public static bool Insert(User user)
         {
             var parameters = new DynamicParameters();
-            var sqlStatement = "INSERT INTO [User] VALUES (@Login, @Password, @FirstName, @LastName, @Email, @Mobile, @Address, @Country) ";
+
+            var sqlStatement = "INSERT INTO [User] VALUES (@Login, @Password, @FirstName, @LastName, @Email, @Mobile, @Address, @Country)";
+            var spName = "User_Insert";
 
             parameters.Add("@Login", user.Login);
             parameters.Add("@Password", user.Password.Hash());
@@ -38,7 +49,7 @@ namespace MyBusiness.Helpers
             var connection = new SqlConnection(ConnectionString);
             try
             {
-                var result = connection.Execute(sqlStatement, parameters);
+                var result = connection.Execute(sqlStatement, parameters, null, 300, CommandType.StoredProcedure);// change insert to sp
                 return result > 0;
             }
             catch (Exception ex)

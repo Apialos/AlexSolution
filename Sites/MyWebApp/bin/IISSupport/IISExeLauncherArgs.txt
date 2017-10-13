@@ -1,0 +1,10 @@
+-p C:\Program Files\dotnet\dotnet.exe
+-pidFile C:\Projects\AlexSolution\Sites\MyWebApp\bin\IISSupport\pidfile.txt
+-wd C:\Projects\AlexSolution\Sites\MyWebApp
+-a exec "C:\Projects\AlexSolution\Sites\MyWebApp\bin\Debug\netcoreapp2.0\MyWebApp.dll"
+-wbe Global\Build302c7161-a83c-48fa-80dd-161cbe7b62e1
+-lse Global\Launchf7b2b5f6-b7e8-40a4-89d7-72153499f294
+-pipe facef2de-3cb9-4a12-a666-0cb846b706c8
+-pr MyWebApp
+-owningPid 8980
+-env ASPNETCORE_CONTENTROOT=C:\Projects\AlexSolution\Sites\MyWebApp|ASPNETCORE_HOSTINGSTARTUPASSEMBLIES=Microsoft.AspNetCore.ApplicationInsights.HostingStartup|ASPNETCORE_ENVIRONMENT=Development|COMPLUS_ForceENC=1|

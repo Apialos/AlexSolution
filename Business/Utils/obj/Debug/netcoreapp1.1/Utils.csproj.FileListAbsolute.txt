@@ -1,9 +1,0 @@
-C:\Projects\AlexSolution\Utils\bin\Debug\netcoreapp1.1\Utils.deps.json
-C:\Projects\AlexSolution\Utils\obj\Debug\netcoreapp1.1\Utils.AssemblyInfo.cs
-C:\Projects\AlexSolution\Utils\bin\Debug\netcoreapp1.1\Utils.dll
-C:\Projects\AlexSolution\Utils\bin\Debug\netcoreapp1.1\Utils.pdb
-C:\Projects\AlexSolution\Utils\obj\Debug\netcoreapp1.1\Utils.csprojResolveAssemblyReference.cache
-C:\Projects\AlexSolution\Utils\obj\Debug\netcoreapp1.1\Utils.dll
-C:\Projects\AlexSolution\Utils\obj\Debug\netcoreapp1.1\Utils.pdb
-C:\Projects\AlexSolution\Utils\obj\Debug\netcoreapp1.1\Utils.csproj.CoreCompileInputs.cache
-C:\Projects\AlexSolution\Utils\obj\Debug\netcoreapp1.1\Utils.AssemblyInfoInputs.cache

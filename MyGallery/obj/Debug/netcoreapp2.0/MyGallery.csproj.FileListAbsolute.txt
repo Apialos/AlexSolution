@@ -1,0 +1,11 @@
+C:\Projects\AlexSolution\MyGallery\obj\Debug\netcoreapp2.0\MyGallery.csprojResolveAssemblyReference.cache
+C:\Projects\AlexSolution\MyGallery\obj\Debug\netcoreapp2.0\MyGallery.csproj.CoreCompileInputs.cache
+C:\Projects\AlexSolution\MyGallery\obj\Debug\netcoreapp2.0\MyGallery.AssemblyInfoInputs.cache
+C:\Projects\AlexSolution\MyGallery\obj\Debug\netcoreapp2.0\MyGallery.AssemblyInfo.cs
+C:\Projects\AlexSolution\MyGallery\bin\Debug\netcoreapp2.0\MyGallery.deps.json
+C:\Projects\AlexSolution\MyGallery\bin\Debug\netcoreapp2.0\MyGallery.runtimeconfig.json
+C:\Projects\AlexSolution\MyGallery\bin\Debug\netcoreapp2.0\MyGallery.runtimeconfig.dev.json
+C:\Projects\AlexSolution\MyGallery\bin\Debug\netcoreapp2.0\MyGallery.dll
+C:\Projects\AlexSolution\MyGallery\bin\Debug\netcoreapp2.0\MyGallery.pdb
+C:\Projects\AlexSolution\MyGallery\obj\Debug\netcoreapp2.0\MyGallery.dll
+C:\Projects\AlexSolution\MyGallery\obj\Debug\netcoreapp2.0\MyGallery.pdb

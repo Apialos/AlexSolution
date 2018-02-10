@@ -1,17 +1,17 @@
 ﻿using System;
-using Microsoft.AspNetCore.Identity;
+using System.ComponentModel.DataAnnotations;
 
-namespace MyGallery.Data.Entities
+namespace MyGallery.ViewModels
 {
-    public class Product
+    public class ProductViewModel
     {
         public int Id { get; set; }
+        [Required]
         public string Title { get; set; }
+        [Required]
         public string Description { get; set; }
-        public string Category { get; set; }
         public decimal Price { get; set; }
-        public string Image{ get; set; }    //Image?
+        public string Category { get; set; }
         public DateTime Created { get; set; }
-        public User User { get; set; }
     }
 }

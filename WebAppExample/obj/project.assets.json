@@ -12542,11 +12542,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projects\\AlexSolution\\WebAppExample\\WebAppExample.csproj",
+      "projectUniqueName": "C:\\Code\\AlexSolution\\WebAppExample\\WebAppExample.csproj",
       "projectName": "WebAppExample",
-      "projectPath": "C:\\Projects\\AlexSolution\\WebAppExample\\WebAppExample.csproj",
+      "projectPath": "C:\\Code\\AlexSolution\\WebAppExample\\WebAppExample.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\AlexSolution\\WebAppExample\\obj\\",
+      "outputPath": "C:\\Code\\AlexSolution\\WebAppExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12576,14 +12576,14 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "Microsoft.NETCore.App": {
-            "target": "Package",
-            "version": "2.0.0",
-            "autoReferenced": true
-          },
           "Microsoft.AspNetCore.All": {
             "target": "Package",
-            "version": "2.0.0"
+            "version": "[2.0.0, )"
+          },
+          "Microsoft.NETCore.App": {
+            "target": "Package",
+            "version": "[2.0.0, )",
+            "autoReferenced": true
           }
         },
         "imports": [

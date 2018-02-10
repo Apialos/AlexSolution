@@ -9,3 +9,14 @@ C:\Projects\AlexSolution\MyGallery\bin\Debug\netcoreapp2.0\MyGallery.dll
 C:\Projects\AlexSolution\MyGallery\bin\Debug\netcoreapp2.0\MyGallery.pdb
 C:\Projects\AlexSolution\MyGallery\obj\Debug\netcoreapp2.0\MyGallery.dll
 C:\Projects\AlexSolution\MyGallery\obj\Debug\netcoreapp2.0\MyGallery.pdb
+C:\Code\AlexSolution\MyGallery\bin\Debug\netcoreapp2.0\MyGallery.deps.json
+C:\Code\AlexSolution\MyGallery\bin\Debug\netcoreapp2.0\MyGallery.runtimeconfig.json
+C:\Code\AlexSolution\MyGallery\bin\Debug\netcoreapp2.0\MyGallery.runtimeconfig.dev.json
+C:\Code\AlexSolution\MyGallery\bin\Debug\netcoreapp2.0\MyGallery.dll
+C:\Code\AlexSolution\MyGallery\bin\Debug\netcoreapp2.0\MyGallery.pdb
+C:\Code\AlexSolution\MyGallery\obj\Debug\netcoreapp2.0\MyGallery.csprojResolveAssemblyReference.cache
+C:\Code\AlexSolution\MyGallery\obj\Debug\netcoreapp2.0\MyGallery.csproj.CoreCompileInputs.cache
+C:\Code\AlexSolution\MyGallery\obj\Debug\netcoreapp2.0\MyGallery.AssemblyInfoInputs.cache
+C:\Code\AlexSolution\MyGallery\obj\Debug\netcoreapp2.0\MyGallery.AssemblyInfo.cs
+C:\Code\AlexSolution\MyGallery\obj\Debug\netcoreapp2.0\MyGallery.dll
+C:\Code\AlexSolution\MyGallery\obj\Debug\netcoreapp2.0\MyGallery.pdb

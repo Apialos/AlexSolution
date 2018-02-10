@@ -7245,11 +7245,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projects\\AlexSolution\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Code\\AlexSolution\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Projects\\AlexSolution\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Code\\AlexSolution\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\AlexSolution\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Code\\AlexSolution\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7268,8 +7268,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Projects\\AlexSolution\\Business\\MyBusiness\\MyBusiness.csproj": {
-              "projectPath": "C:\\Projects\\AlexSolution\\Business\\MyBusiness\\MyBusiness.csproj"
+            "C:\\Code\\AlexSolution\\Business\\MyBusiness\\MyBusiness.csproj": {
+              "projectPath": "C:\\Code\\AlexSolution\\Business\\MyBusiness\\MyBusiness.csproj"
             }
           }
         }
@@ -7285,7 +7285,7 @@
         "dependencies": {
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0.0",
+            "version": "[2.0.0, )",
             "autoReferenced": true
           }
         },

@@ -17,7 +17,7 @@ namespace MyGallery.Controllers
         }
 
         [HttpGet]
-        public IEnumerable<ProductViewModel> Get()
+        public IEnumerable<ProductViewModel> Index()
         {
             var results = _repository.GetAllProducts();
 
@@ -25,19 +25,19 @@ namespace MyGallery.Controllers
             return products;
         }
 
-        public IActionResult AddProduct()
+        public IActionResult Insert()
         {
-            return View()
+            return View();
         }
 
-        public IActionResult EditProduct()
+        public IActionResult Edit()
         {
-
+            return View();
         }
 
-        public IActionResult DeleteProduct()
+        public IActionResult Delete()
         {
-
+            return null;
         }
     }
 }

@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using AutoMapper;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using MyGallery.Data;
@@ -8,8 +9,8 @@ using MyGallery.ViewModels;
 
 namespace MyGallery.Controllers
 {
-    //[Route("api/[Controller]")]
-    [Authorize]
+    [Route("api/[Controller]")]
+    [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
     public class ProductsController : BaseController
     {
         public ProductsController(IDatabaseRepository repository, IMapper mapper): base(repository, mapper)

@@ -19,3 +19,4 @@ C:\Code\AlexSolution\MyGallery\obj\Debug\netcoreapp2.0\MyGallery.AssemblyInfoInp
 C:\Code\AlexSolution\MyGallery\obj\Debug\netcoreapp2.0\MyGallery.AssemblyInfo.cs
 C:\Code\AlexSolution\MyGallery\obj\Debug\netcoreapp2.0\MyGallery.dll
 C:\Code\AlexSolution\MyGallery\obj\Debug\netcoreapp2.0\MyGallery.pdb
+C:\Code\AlexSolution\MyGallery\obj\Debug\netcoreapp2.0\MyGallery.csprojResolveAssemblyReference.cache

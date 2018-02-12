@@ -1,10 +1,12 @@
-﻿using AutoMapper;
+﻿using System.Text;
+using AutoMapper;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.IdentityModel.Tokens;
 using MyGallery.Data;
 using MyGallery.Data.Entities;
 using MyGallery.Infrastructure;
@@ -38,9 +40,22 @@ namespace MyGallery
                 })
                 .AddEntityFrameworkStores<DatabaseContext>();
 
+            services
+                .AddAuthentication()
+                .AddCookie()
+                .AddJwtBearer(cfg =>
+                {
+                    cfg.TokenValidationParameters = new TokenValidationParameters
+                    {
+                        ValidIssuer = _config["Tokens:Issuer"],
+                        ValidAudience = _config["Tokens:Audience"],
+                        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config["Tokens:Key"]))
+                    };
+                });
+
             services.AddDbContext<DatabaseContext>(cfg =>
             {
-                cfg.UseSqlServer(_config.GetConnectionString("MyGalleryConnectionsString"));
+                cfg.UseSqlServer(_config.GetConnectionString("DefaultConnection"));
             });
 
             services.AddAutoMapper();

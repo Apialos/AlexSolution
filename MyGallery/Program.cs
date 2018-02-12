@@ -23,7 +23,7 @@ namespace MyGallery
             //Removing the default configuration options
             builder.Sources.Clear();
 
-            builder.AddJsonFile("config.json", false, true)
+            builder.AddJsonFile("appsettings.json", false, true)
                 .AddEnvironmentVariables();
         }
     }

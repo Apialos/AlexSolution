@@ -1,5 +1,0 @@
-﻿{
-    "ConnectionStrings": {
-        "MyGalleryConnectionsString": "server=(localdb)\\ProjectsV13; Database=MyGalleryDB; Integrated Security=true; MultipleActiveResultSets=true"
-    } 
-}

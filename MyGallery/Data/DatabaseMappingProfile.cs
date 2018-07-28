@@ -1,5 +1,4 @@
 ﻿using AutoMapper;
-using Microsoft.EntityFrameworkCore;
 using MyGallery.Data.Entities;
 using MyGallery.ViewModels;
 

@@ -9,3 +9,8 @@ C:\Code\AlexSolution\GalleryShop\obj\Debug\netcoreapp2.1\GalleryShop.AssemblyInf
 C:\Code\AlexSolution\GalleryShop\obj\Debug\netcoreapp2.1\GalleryShop.AssemblyInfo.cs
 C:\Code\AlexSolution\GalleryShop\obj\Debug\netcoreapp2.1\GalleryShop.dll
 C:\Code\AlexSolution\GalleryShop\obj\Debug\netcoreapp2.1\GalleryShop.pdb
+C:\Code\AlexSolution\GalleryShop\bin\Debug\netcoreapp2.1\GalleryShop.Business.dll
+C:\Code\AlexSolution\GalleryShop\bin\Debug\netcoreapp2.1\GalleryShop.Domain.dll
+C:\Code\AlexSolution\GalleryShop\bin\Debug\netcoreapp2.1\GalleryShop.Business.pdb
+C:\Code\AlexSolution\GalleryShop\bin\Debug\netcoreapp2.1\GalleryShop.Domain.pdb
+C:\Code\AlexSolution\GalleryShop\obj\Debug\netcoreapp2.1\GalleryShop.csproj.CopyComplete

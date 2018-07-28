@@ -1,0 +1,11 @@
+C:\Code\AlexSolution\GalleryShop\bin\Debug\netcoreapp2.1\GalleryShop.deps.json
+C:\Code\AlexSolution\GalleryShop\bin\Debug\netcoreapp2.1\GalleryShop.runtimeconfig.json
+C:\Code\AlexSolution\GalleryShop\bin\Debug\netcoreapp2.1\GalleryShop.runtimeconfig.dev.json
+C:\Code\AlexSolution\GalleryShop\bin\Debug\netcoreapp2.1\GalleryShop.dll
+C:\Code\AlexSolution\GalleryShop\bin\Debug\netcoreapp2.1\GalleryShop.pdb
+C:\Code\AlexSolution\GalleryShop\obj\Debug\netcoreapp2.1\GalleryShop.csprojAssemblyReference.cache
+C:\Code\AlexSolution\GalleryShop\obj\Debug\netcoreapp2.1\GalleryShop.csproj.CoreCompileInputs.cache
+C:\Code\AlexSolution\GalleryShop\obj\Debug\netcoreapp2.1\GalleryShop.AssemblyInfoInputs.cache
+C:\Code\AlexSolution\GalleryShop\obj\Debug\netcoreapp2.1\GalleryShop.AssemblyInfo.cs
+C:\Code\AlexSolution\GalleryShop\obj\Debug\netcoreapp2.1\GalleryShop.dll
+C:\Code\AlexSolution\GalleryShop\obj\Debug\netcoreapp2.1\GalleryShop.pdb

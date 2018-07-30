@@ -4,7 +4,7 @@ using GalleryShop.Business.Repository;
 using GalleryShop.Domain;
 using Microsoft.AspNetCore.Mvc;
 
-namespace GalleryShop.Controllers
+namespace GalleryShop.Api.Controllers
 {
     [Route("api/[controller]")]
     public class ProductsController : Controller

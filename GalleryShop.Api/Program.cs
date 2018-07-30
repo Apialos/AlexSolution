@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 
-namespace GalleryShop
+namespace GalleryShop.Api
 {
     public class Program
     {

@@ -7,3 +7,12 @@ C:\Code\AlexSolution\GalleryShop.Domain\bin\Debug\netcoreapp2.1\GalleryShop.Doma
 C:\Code\AlexSolution\GalleryShop.Domain\obj\Debug\netcoreapp2.1\GalleryShop.Domain.dll
 C:\Code\AlexSolution\GalleryShop.Domain\obj\Debug\netcoreapp2.1\GalleryShop.Domain.pdb
 C:\Code\AlexSolution\GalleryShop.Domain\obj\Debug\netcoreapp2.1\GalleryShop.Domain.csprojAssemblyReference.cache
+C:\Code\GalleryShopSolution\GalleryShop.Domain\bin\Debug\netcoreapp2.1\GalleryShop.Domain.deps.json
+C:\Code\GalleryShopSolution\GalleryShop.Domain\bin\Debug\netcoreapp2.1\GalleryShop.Domain.dll
+C:\Code\GalleryShopSolution\GalleryShop.Domain\bin\Debug\netcoreapp2.1\GalleryShop.Domain.pdb
+C:\Code\GalleryShopSolution\GalleryShop.Domain\obj\Debug\netcoreapp2.1\GalleryShop.Domain.csprojAssemblyReference.cache
+C:\Code\GalleryShopSolution\GalleryShop.Domain\obj\Debug\netcoreapp2.1\GalleryShop.Domain.csproj.CoreCompileInputs.cache
+C:\Code\GalleryShopSolution\GalleryShop.Domain\obj\Debug\netcoreapp2.1\GalleryShop.Domain.AssemblyInfoInputs.cache
+C:\Code\GalleryShopSolution\GalleryShop.Domain\obj\Debug\netcoreapp2.1\GalleryShop.Domain.AssemblyInfo.cs
+C:\Code\GalleryShopSolution\GalleryShop.Domain\obj\Debug\netcoreapp2.1\GalleryShop.Domain.dll
+C:\Code\GalleryShopSolution\GalleryShop.Domain\obj\Debug\netcoreapp2.1\GalleryShop.Domain.pdb

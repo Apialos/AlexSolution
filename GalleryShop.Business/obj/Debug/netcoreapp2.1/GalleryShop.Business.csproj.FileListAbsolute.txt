@@ -12,3 +12,17 @@ C:\Code\AlexSolution\GalleryShop.Business\obj\Debug\netcoreapp2.1\GalleryShop.Bu
 C:\Code\AlexSolution\GalleryShop.Business\obj\Debug\netcoreapp2.1\GalleryShop.Business.csproj.CopyComplete
 C:\Code\AlexSolution\GalleryShop.Business\obj\Debug\netcoreapp2.1\GalleryShop.Business.dll
 C:\Code\AlexSolution\GalleryShop.Business\obj\Debug\netcoreapp2.1\GalleryShop.Business.pdb
+C:\Code\GalleryShopSolution\GalleryShop.Business\bin\Debug\netcoreapp2.1\GalleryShop.Business.deps.json
+C:\Code\GalleryShopSolution\GalleryShop.Business\bin\Debug\netcoreapp2.1\GalleryShop.Business.dll
+C:\Code\GalleryShopSolution\GalleryShop.Business\bin\Debug\netcoreapp2.1\GalleryShop.Business.pdb
+C:\Code\GalleryShopSolution\GalleryShop.Business\bin\Debug\netcoreapp2.1\GalleryShop.Domain.dll
+C:\Code\GalleryShopSolution\GalleryShop.Business\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Code\GalleryShopSolution\GalleryShop.Business\bin\Debug\netcoreapp2.1\GalleryShop.Domain.pdb
+C:\Code\GalleryShopSolution\GalleryShop.Business\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Code\GalleryShopSolution\GalleryShop.Business\obj\Debug\netcoreapp2.1\GalleryShop.Business.csprojAssemblyReference.cache
+C:\Code\GalleryShopSolution\GalleryShop.Business\obj\Debug\netcoreapp2.1\GalleryShop.Business.csproj.CoreCompileInputs.cache
+C:\Code\GalleryShopSolution\GalleryShop.Business\obj\Debug\netcoreapp2.1\GalleryShop.Business.AssemblyInfoInputs.cache
+C:\Code\GalleryShopSolution\GalleryShop.Business\obj\Debug\netcoreapp2.1\GalleryShop.Business.AssemblyInfo.cs
+C:\Code\GalleryShopSolution\GalleryShop.Business\obj\Debug\netcoreapp2.1\GalleryShop.Business.csproj.CopyComplete
+C:\Code\GalleryShopSolution\GalleryShop.Business\obj\Debug\netcoreapp2.1\GalleryShop.Business.dll
+C:\Code\GalleryShopSolution\GalleryShop.Business\obj\Debug\netcoreapp2.1\GalleryShop.Business.pdb

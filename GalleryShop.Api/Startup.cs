@@ -22,8 +22,6 @@ namespace GalleryShop.Api
             services.AddScoped<IProductRepository, ProductRepository>();
 
             services.AddMvc();
-
-            // Register the Swagger generator, defining 1 or more Swagger documents
             services.AddSwaggerDocumentation();
         }
 

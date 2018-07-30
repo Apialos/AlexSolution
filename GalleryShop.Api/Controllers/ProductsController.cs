@@ -9,7 +9,7 @@ namespace GalleryShop.Api.Controllers
     [Route("api/[controller]")]
     public class ProductsController : Controller
     {
-        private IProductRepository _productRepository;
+        private readonly IProductRepository _productRepository;
 
         public ProductsController(IProductRepository productRepository)
         {

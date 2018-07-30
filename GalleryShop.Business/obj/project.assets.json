@@ -1853,11 +1853,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\AlexSolution\\GalleryShop.Business\\GalleryShop.Business.csproj",
+      "projectUniqueName": "C:\\Code\\GalleryShopSolution\\GalleryShop.Business\\GalleryShop.Business.csproj",
       "projectName": "GalleryShop.Business",
-      "projectPath": "C:\\Code\\AlexSolution\\GalleryShop.Business\\GalleryShop.Business.csproj",
+      "projectPath": "C:\\Code\\GalleryShopSolution\\GalleryShop.Business\\GalleryShop.Business.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\AlexSolution\\GalleryShop.Business\\obj\\",
+      "outputPath": "C:\\Code\\GalleryShopSolution\\GalleryShop.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1876,8 +1876,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Code\\AlexSolution\\GalleryShop.Domain\\GalleryShop.Domain.csproj": {
-              "projectPath": "C:\\Code\\AlexSolution\\GalleryShop.Domain\\GalleryShop.Domain.csproj"
+            "C:\\Code\\GalleryShopSolution\\GalleryShop.Domain\\GalleryShop.Domain.csproj": {
+              "projectPath": "C:\\Code\\GalleryShopSolution\\GalleryShop.Domain\\GalleryShop.Domain.csproj"
             }
           }
         }

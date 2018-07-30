@@ -1835,11 +1835,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\AlexSolution\\GalleryShop.Domain\\GalleryShop.Domain.csproj",
+      "projectUniqueName": "C:\\Code\\GalleryShopSolution\\GalleryShop.Domain\\GalleryShop.Domain.csproj",
       "projectName": "GalleryShop.Domain",
-      "projectPath": "C:\\Code\\AlexSolution\\GalleryShop.Domain\\GalleryShop.Domain.csproj",
+      "projectPath": "C:\\Code\\GalleryShopSolution\\GalleryShop.Domain\\GalleryShop.Domain.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\AlexSolution\\GalleryShop.Domain\\obj\\",
+      "outputPath": "C:\\Code\\GalleryShopSolution\\GalleryShop.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

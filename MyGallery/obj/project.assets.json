@@ -12717,15 +12717,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Code\\AlexSolution\\MyGallery\\MyGallery.csproj",
+      "projectUniqueName": "C:\\Code\\GalleryShopSolution\\MyGallery\\MyGallery.csproj",
       "projectName": "MyGallery",
-      "projectPath": "C:\\Code\\AlexSolution\\MyGallery\\MyGallery.csproj",
+      "projectPath": "C:\\Code\\GalleryShopSolution\\MyGallery\\MyGallery.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\AlexSolution\\MyGallery\\obj\\",
+      "outputPath": "C:\\Code\\GalleryShopSolution\\MyGallery\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

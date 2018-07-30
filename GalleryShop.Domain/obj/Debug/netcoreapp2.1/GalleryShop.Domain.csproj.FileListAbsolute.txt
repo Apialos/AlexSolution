@@ -6,3 +6,4 @@ C:\Code\AlexSolution\GalleryShop.Domain\obj\Debug\netcoreapp2.1\GalleryShop.Doma
 C:\Code\AlexSolution\GalleryShop.Domain\bin\Debug\netcoreapp2.1\GalleryShop.Domain.pdb
 C:\Code\AlexSolution\GalleryShop.Domain\obj\Debug\netcoreapp2.1\GalleryShop.Domain.dll
 C:\Code\AlexSolution\GalleryShop.Domain\obj\Debug\netcoreapp2.1\GalleryShop.Domain.pdb
+C:\Code\AlexSolution\GalleryShop.Domain\obj\Debug\netcoreapp2.1\GalleryShop.Domain.csprojAssemblyReference.cache

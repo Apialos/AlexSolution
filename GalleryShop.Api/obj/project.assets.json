@@ -12850,11 +12850,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\AlexSolution\\GalleryShop\\GalleryShop.csproj",
-      "projectName": "GalleryShop",
-      "projectPath": "C:\\Code\\AlexSolution\\GalleryShop\\GalleryShop.csproj",
+      "projectUniqueName": "C:\\Code\\AlexSolution\\GalleryShop.Api\\GalleryShop.Api.csproj",
+      "projectName": "GalleryShop.Api",
+      "projectPath": "C:\\Code\\AlexSolution\\GalleryShop.Api\\GalleryShop.Api.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\AlexSolution\\GalleryShop\\obj\\",
+      "outputPath": "C:\\Code\\AlexSolution\\GalleryShop.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

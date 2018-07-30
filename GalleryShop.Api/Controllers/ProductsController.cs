@@ -1,16 +1,27 @@
 ﻿using System.Collections.Generic;
+using System.Threading.Tasks;
+using GalleryShop.Business.Repository;
+using GalleryShop.Domain;
 using Microsoft.AspNetCore.Mvc;
 
 namespace GalleryShop.Controllers
 {
     [Route("api/[controller]")]
-    public class ValuesController : Controller
+    public class ProductsController : Controller
     {
+        private IProductRepository _productRepository;
+
+        public ProductsController(IProductRepository productRepository)
+        {
+            _productRepository = productRepository;
+        }
+
         // GET api/values
         [HttpGet]
-        public IEnumerable<string> Get()
+        public async Task<IEnumerable<Product>> Get()
         {
-            return new string[] { "value1", "value2" };
+            var products = await _productRepository.SelectAsync();
+            return products;
         }
 
         // GET api/values/5

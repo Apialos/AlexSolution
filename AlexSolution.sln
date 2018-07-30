@@ -5,11 +5,11 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyGallery", "MyGallery\MyGallery.csproj", "{6E7DD1DE-8D29-4E3C-9C0D-2AB91A541124}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GalleryShop", "GalleryShop\GalleryShop.csproj", "{B7486D51-1BFD-4DA2-9FA6-5C3A0141ABDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GalleryShop.Business", "GalleryShop.Business\GalleryShop.Business.csproj", "{178CFA63-D099-494B-B93A-EFA33BF753C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalleryShop.Business", "GalleryShop.Business\GalleryShop.Business.csproj", "{178CFA63-D099-494B-B93A-EFA33BF753C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GalleryShop.Domain", "GalleryShop.Domain\GalleryShop.Domain.csproj", "{DF9331E3-48BB-4B2D-AB27-60FB3B2AC0F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalleryShop.Domain", "GalleryShop.Domain\GalleryShop.Domain.csproj", "{DF9331E3-48BB-4B2D-AB27-60FB3B2AC0F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GalleryShop.Api", "GalleryShop.Api\GalleryShop.Api.csproj", "{4591F1F8-7F09-4E76-8E91-1A5175D4C442}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,10 +21,6 @@ Global
 		{6E7DD1DE-8D29-4E3C-9C0D-2AB91A541124}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E7DD1DE-8D29-4E3C-9C0D-2AB91A541124}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E7DD1DE-8D29-4E3C-9C0D-2AB91A541124}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B7486D51-1BFD-4DA2-9FA6-5C3A0141ABDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B7486D51-1BFD-4DA2-9FA6-5C3A0141ABDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B7486D51-1BFD-4DA2-9FA6-5C3A0141ABDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B7486D51-1BFD-4DA2-9FA6-5C3A0141ABDA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{178CFA63-D099-494B-B93A-EFA33BF753C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{178CFA63-D099-494B-B93A-EFA33BF753C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{178CFA63-D099-494B-B93A-EFA33BF753C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,6 +29,10 @@ Global
 		{DF9331E3-48BB-4B2D-AB27-60FB3B2AC0F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF9331E3-48BB-4B2D-AB27-60FB3B2AC0F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF9331E3-48BB-4B2D-AB27-60FB3B2AC0F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4591F1F8-7F09-4E76-8E91-1A5175D4C442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4591F1F8-7F09-4E76-8E91-1A5175D4C442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4591F1F8-7F09-4E76-8E91-1A5175D4C442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4591F1F8-7F09-4E76-8E91-1A5175D4C442}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
